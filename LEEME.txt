@@ -1,0 +1,49 @@
+============================================================
+  OPTICRAFT - Launcher de Minecraft (Java & Bedrock)
+============================================================
+
+HOLA. Esto es tu launcher. Para convertirlo en un .EXE de Windows
+(sin consola negra) solo tienes que hacer UNA cosa:
+
+  >>> Haz doble clic en:  create-windows-exe.bat <<<
+
+Eso instala todo y crea el instalador automaticamente.
+Al terminar, se abrira la carpeta  dist\  y dentro estara:
+
+  OptiCraft Setup 1.0.0.exe
+
+Ese es tu instalador. Lo ejecutas, eliges la carpeta y listo:
+quedara OptiCraft instalado con su icono de bloques y accesos
+directos en el escritorio y el menu inicio.
+
+------------------------------------------------------------
+  REQUISITO (solo la primera vez)
+------------------------------------------------------------
+- Necesitas Node.js 20 o superior instalado:  https://nodejs.org
+  (descarga la version "LTS", instalar es Siguiente -> Siguiente).
+- Para JUGAR a Java necesitas tener Java instalado en tu PC.
+- Para Bedrock necesitas tener Minecraft (Bedrock) ya instalado;
+  OptiCraft detecta tu version automaticamente.
+
+------------------------------------------------------------
+  QUE INCLUYE
+------------------------------------------------------------
+- Barra lateral: News, Minecraft Java, Bedrock Edition, Settings.
+- JAVA: Play (boton verde grande), Installations, Skins (vestuario
+  3D que gira, biblioteca, importar, aplicar) y Patch Notes.
+- BEDROCK: Play, Realm, Marketplace, Creator Tools, FAQ,
+  Installations y Patch Notes. Detecta tu version instalada.
+- Cuentas: Offline, Ely.by y Microsoft.
+- Motor de arranque: minimiza o cierra el launcher al jugar y
+  libera memoria (se configura en Settings).
+- Usa SOLO tus imagenes y texturas de la carpeta assets.
+
+------------------------------------------------------------
+  NOTA SOBRE CUENTAS MICROSOFT
+------------------------------------------------------------
+Para que funcionen las cuentas Microsoft necesitas un "Client ID"
+de Azure. Mientras tanto, Offline y Ely.by funcionan al 100%.
+Si quieres activar Microsoft, dime y te explico el unico paso.
+
+Cualquier error que te salga al compilar o al abrir, copialo tal
+cual y me lo pasas. Gracias!
